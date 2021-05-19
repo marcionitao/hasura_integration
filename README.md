@@ -10,5 +10,5 @@ We created a simple application to consume online resources through Hasura.
 
 + Flutter
 + Heroku Cloud Application Platform
-+ Hasura
++ Hasura Cloud
 + GraphQL
