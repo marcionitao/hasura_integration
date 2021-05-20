@@ -1,4 +1,5 @@
-import 'package:hasura_integration/home/repositories/home_repository_impl.dart';
+import 'repositories/home_repository_impl.dart';
+
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
